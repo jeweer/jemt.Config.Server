@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mayunjie
+Build-Jdk: 11.0.1
+Implementation-Title: Config.Server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jemt
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Config.Server/
+Created-By: Maven Integration for Eclipse
+
